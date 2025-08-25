@@ -2,7 +2,7 @@
 
 This repository contains  beginner-friendly Python projects I built while learning Python:
 
-1. **Calculator with History** – A simple calculator that performs +, -, *, / and stores history with options to view or clear it.  
+ **Calculator with History** – A simple calculator that performs +, -, *, / and stores history with options to view or clear it.  
 
 
 ---
